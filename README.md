@@ -21,6 +21,7 @@ Mô hình **Decision Tree** đạt hiệu suất ấn tượng trên tập kiể
 ├── Source_Code_IDS.ipynb        # File mã nguồn chính (Chạy trên Google Colab/Jupyter)
 ├── Source_Code_Script.py        # File mã nguồn định dạng Python Script
 ├── decision_tree_ids_model.joblib # Mô hình đã huấn luyện sẵn (Pre-trained model)
+├── randorm_forest_ids_model.joblib # Mô hình đã huấn luyện sẵn (Pre-trained model)
 ├── requirements.txt             # Danh sách các thư viện cần thiết
 └── README.md                    # Tài liệu hướng dẫn
 ```
