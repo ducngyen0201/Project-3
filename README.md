@@ -17,11 +17,13 @@ Mô hình **Decision Tree** đạt hiệu suất ấn tượng trên tập kiể
 - **So sánh với Random Forest:** Decision Tree phát hiện tốt hơn (chỉ bỏ lọt 2 so với 11 của Random Forest) và có tốc độ dự đoán nhanh hơn, phù hợp cho triển khai thời gian thực.
 
 ## 📂 Cấu trúc dự án (Project Structure)
-├── Source_Code_IDS.ipynb # File mã nguồn chính (Chạy trên Google Colab/Jupyter) 
-├── Source_Code_Script.py # File mã nguồn định dạng Python Script 
-├── decision_tree_ids_model.joblib # Mô hình đã huấn luyện sẵn (Pre-trained model) 
-├── requirements.txt # Danh sách các thư viện cần thiết 
-└── README.md # Tài liệu hướng dẫn
+```text
+├── Source_Code_IDS.ipynb        # File mã nguồn chính (Chạy trên Google Colab/Jupyter)
+├── Source_Code_Script.py        # File mã nguồn định dạng Python Script
+├── decision_tree_ids_model.joblib # Mô hình đã huấn luyện sẵn (Pre-trained model)
+├── requirements.txt             # Danh sách các thư viện cần thiết
+└── README.md                    # Tài liệu hướng dẫn
+```
 ## 💾 Dữ liệu (Dataset)
 Dự án sử dụng bộ dữ liệu **CIC-IDS2017** từ Viện An ninh mạng Canada (CIC). Do chính sách bản quyền và kích thước file lớn, dữ liệu không được đính kèm trực tiếp trong repository này.
 
